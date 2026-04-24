@@ -176,6 +176,3 @@ HELMSMEN DONE.
 
 ---
 
-## License
-
-MIT
